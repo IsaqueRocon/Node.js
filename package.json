@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "eslint": "^8.57.1",
+    "json-server": "^0.17.4",
     "prettier": "3.0.3"
   }
 }
